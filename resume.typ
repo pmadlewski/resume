@@ -153,7 +153,7 @@
 == Side Projects
 
 #work(
-  title: "Fractional CMO",
+  title: "Founder & Growth Lead",
   company: "SaunyPro (saunypro.pl)",
   location: "Kraków, Poland",
   dates: dates-helper(start-date: "Jun 2024", end-date: "Present"),
