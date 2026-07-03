@@ -1,0 +1,11 @@
+{
+  "name": "pm-resume",
+  "version": "1.0.0",
+  "description": "Paweł Madlewski — resume (Typst)",
+  "scripts": {
+    "export": "typst compile resume.typ resume.pdf",
+    "watch": "typst watch resume.typ resume.pdf"
+  },
+  "author": "Paweł Madlewski",
+  "license": "MIT"
+}

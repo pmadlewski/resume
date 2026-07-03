@@ -1,0 +1,8 @@
+.DS_Store
+
+resume-preview-*.png
+*.png.bak
+
+node_modules/
+
+.cursor/
