@@ -58,7 +58,7 @@
 
 #show: resume.with(
   author: "Paweł Madlewski",
-  title: "Senior Data Analyst",
+  title: "Senior Data Analyst & Analytics Engineer",
   location: "Kraków, Poland",
   email: "pmadlewski@gmail.com",
   phone: "+48 698 643 610",
@@ -78,7 +78,7 @@
   ],
 
   // Save a square headshot as `photo.jpg` in this folder.
-  show-photo: true,
+  show-photo: false,
   photo: image("photo.jpg", width: 100%, height: 100%, fit: "cover"),
   photo-size: 140pt,
 
