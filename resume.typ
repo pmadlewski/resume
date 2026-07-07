@@ -123,7 +123,7 @@
   dates: dates-helper(start-date: "Jun 2022", end-date: "Jul 2025"),
 )
 - *Led analytics for Product-Led Growth* — defined key metrics, built end-to-end funnel dashboards combining marketing attribution with in-product usage data, and designed usage metrics predicting conversion
-- *Designed and shipped an in-house ELT pipeline* in *Python* + *Airflow* on *Google Kubernetes Engine*, replacing a third-party ETL tool — syncs ~60 production *PostgreSQL* tables (up to 100M rows) into *BigQuery*
+- *Designed and shipped an in-house ELT pipeline* in *Python* + *Airflow* on *Google Kubernetes Engine*, replacing a third-party ETL tool — syncs ~60 production *PostgreSQL* tables (100M+ rows) into *BigQuery*
 - Built and maintained *dbt* data models on top of *BigQuery*, powering analytics and BI datasets across marketing, finance, product and operations
 - Built and maintained flexible dashboards in *Metabase*
 - Consulted business stakeholders on data collection best practices, marketing attribution, and CRM data (*Hubspot* / *Salesforce*)
